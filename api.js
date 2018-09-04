@@ -39,7 +39,7 @@ var last_state = {
     "chats.active_chats": 0,
     "chats.incoming_chats": 0,
     "agents.agents_online": 0,
-    "agents.agents_away": 0,
+    "agents.agents_away": 0
 }
 
 // on ws message received, update response
