@@ -1,0 +1,29 @@
+{
+  "name": "zopim_ws_to_rest",
+  "version": "1.0.0",
+  "description": "Zopim WS API to REST",
+  "scripts": {
+    "start": "node api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:llooker/zopim_ws_to_rest.git"
+  },
+  "keywords": [
+    "zopim",
+    "websocket",
+    "rest",
+    "api"
+  ],
+  "author": "Brecht Vermeire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llooker/zopim_ws_to_rest/issues"
+  },
+  "homepage": "https://github.com/llooker/zopim_ws_to_rest#readme",
+  "dependencies": {
+    "restify": "^7.2.1",
+    "ws": "^6.0.0"
+  }
+}
